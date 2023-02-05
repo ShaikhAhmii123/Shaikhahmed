@@ -1,0 +1,55 @@
+header{
+ 
+background: darkcyan
+
+}
+header h1{
+  font-size: 450%
+}
+header h1{
+  font-family: 'Times New Roman', Times, serif
+}
+header{
+  text-align: center
+}
+border{
+  background: seagreen
+}
+border{
+  text-decoration-color: black
+}
+border{
+  font-size: 180%
+}
+border{
+  font-family: 'Courier New', Courier, monospace
+}
+fieldset{
+  background: floralwhite
+}
+body{
+  background-color: lightslategray
+}
+body main section h2{
+  text-align: center
+  
+}
+body main section h2{
+  font-size: 320%
+}
+h2{
+  font-family: 'Times New Roman', Times, serif
+}
+border{
+  border-bottom: center
+}
+.class{
+  background: wheat
+}
+a{
+  color: saddlebrown
+  
+}
+a{
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
